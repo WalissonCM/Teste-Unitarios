@@ -16,7 +16,7 @@
 - steps:
 - - name: Run a one-line script
 - run: echo deploy dev
-deploy-hmg:
+- deploy-hmg:
 - runs-on: ubuntu-latest
 - environment:
 - name: hmg
