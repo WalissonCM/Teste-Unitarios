@@ -1,4 +1,4 @@
-name: TesteCD
+- name: TesteCD
 - on:
 - workflow_dispatch:
 - jobs:
